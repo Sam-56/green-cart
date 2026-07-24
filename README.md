@@ -4,8 +4,8 @@ A full-stack grocery e-commerce platform built with the MERN stack.
 
 ## 🚀 Live Demo
 
-- **Frontend:** ![Live Demo](https://green-cart-sam-ed27.vercel.app/)
-- **Backend API:** ![Live Demo](https://green-cart-jciw.onrender.com/)
+- **Frontend:** [Live Demo](https://green-cart-sam-ed27.vercel.app/)
+- **Backend API:** [Live Demo](https://green-cart-jciw.onrender.com/)
 
 ## 🛠️ Tech Stack
 
